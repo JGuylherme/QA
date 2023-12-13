@@ -1,0 +1,2 @@
+*.robot linguist-language=RobotFramework
+*.resource linguist-language=RobotFramework
